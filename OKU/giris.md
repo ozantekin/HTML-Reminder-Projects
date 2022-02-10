@@ -10,7 +10,7 @@
 
 <hr/>
 
-<h3 align="center">Nasıl Çalışsam daha faydalı olur?</h3>
+<h3 align="center">Nasıl Çalışırsam daha faydalı olur?</h3>
 
 <hr/>
 
