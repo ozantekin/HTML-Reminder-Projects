@@ -1,6 +1,6 @@
 <h1 align="center"> HTML Hatırlatıcı Proje </h1>
 
-<p> <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinde videolu haline ulaşabilirsiniz. </p>
+<p> <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinden adım adım anlatımlı videolu haline ulaşabilirsiniz. </p>
 
 <h2 align="center">İçindekiler</h2>
 
