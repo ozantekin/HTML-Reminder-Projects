@@ -1,0 +1,43 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Anket Formu</title>
+  </head>
+  <body>
+    <form action="#">
+      <div align="center">
+        <h1>Anket Formu</h1>
+        Adiniz:
+        <input type="text" name="name" size="40" maxlength="40" value="" />
+        <br /><br />
+        Soyadiniz:
+        <input type="text" name="lastName" size="40" maxlength="40" value="" />
+        <br /><br />
+        Hakkinizda:
+        <textarea name="about" cols="40" rows="5"></textarea>
+        <br /><br />
+        18 Yasindan buyuk musunuz?
+        <input type="radio" name="age" value="1" />Evet <input type="radio"
+        name="age" value"0">Hayir <br /><br />
+        <p>En çok zamani nerede geciriyorsunuz?</p>
+        <input type="checkbox" name="tv" />Televizyon
+        <input type="checkbox" name="pc" />Bilgisayar
+        <input type="checkbox" name="sleep" />Yatarak
+        <input type="checkbox" name="free" />Kafama Gore <br /><br />
+        Ne uzerine gelismektesiniz?
+        <select name="dev">
+          <option value="1" selected="true">JavaScript</option>
+          <option value="2">Pyhton</option>
+          <option value="3">Rust</option>
+          <option value="4">Solidity</option>
+          <option value="5">Swift</option>
+        </select>
+        <br /><br />
+        <input type="submit" value="Tamamlandı" />
+      </div>
+    </form>
+  </body>
+</html>
