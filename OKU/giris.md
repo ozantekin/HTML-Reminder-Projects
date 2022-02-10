@@ -1,24 +1,30 @@
-<h1 align="center"> HTML Hatırlatıcı Küçük Projeler </h1>
+<h1 align="center"> HTML Hatırlatıcı Proje </h1>
 
-<p> <a href="https://www.instagram.com/ozantekindev/">Instagram</a> üzerinde 1 dakika içinde bilgi serime ait bir repo'dur. </p>
+<p> <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinde videolu haline ulaşabilirsiniz. </p>
 
 <h2 align="center">İçindekiler</h2>
 
-<p>HTML tekrar notları</p>
+<hr/>
 
-<p> Yararlandığım kaynakların linkleri.</p>
-
-<p>Hızlı bir şekilde tekrar için kaynak kodlar.</p> 
-
-<p>Görsel hafızayı harekete geçirmek için handmade hazırlamış olduğum cheat sheet'ler. </p> 
+<p> Konular klasör klasör ayrılacaktır, klasörlerin içinde kaynak kodları(Küçük projeler) inceleyebilirsiniz.<p>
 
 <hr/>
 
-<p> Konular klasör klasör ayrılacaktır klasörlerin içinde o konuyla ilgili hazırladığım kaynak kodları(Küçük projeler), cheat sheet'leri, yazıları ve çalışırken yararlandığım kaynakları inceleyebilirsiniz.<p>
+<h3 align="center">Nasıl Çalışsam daha faydalı olur?</h3>
 
 <hr/>
 
-<h3 align="center">Sosyal Medya</h3>
+<p>1- Repo'yu dikkatlice incele mantığını kavra.</p>
+
+<p>2- Bakmadan kafanda kurduğun mantıkla kodlamaya çalış. Tasarım tamamen benzemesine gerek yok mantık önemli olan.</p>
+
+<p>3- Sonra <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinde videolu haline ulaş. </p>
+
+<P> Kafana takıldığı kısımları video ile kapatmaya çalış. Takıldığın kısmın içinden çıkamıyorsan bana yorumlar üzerinden ulaş. </p>
+
+<hr/>
+
+<h4 align="center">Sosyal Medya</h4>
 
 <p>
 Twitter : <a href="https://twitter.com/ozantekindev"> Paylaştığım içerikler gelişiminizi hızlandıracaktır. </a>
