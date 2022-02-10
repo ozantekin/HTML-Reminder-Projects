@@ -18,9 +18,9 @@
 
 <p>2- Bakmadan kafanda kurduğun mantıkla kodlamaya çalış. Tasarım tamamen benzemesine gerek yok mantık önemli olan.</p>
 
-<p>Takıldığın yerlerde <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinden videolu haline ulaş. </p>
+<p>3- Takıldığın yerlerde <a href="https://www.youtube.com/channel/UC86HNI5ZoebM7zqAVQt6ouw">Yotube</a> kanalım üzerinden videolu haline ulaş. </p>
 
-<P> Kafana takılan kısımları video ile kapatmaya çalış. Takıldığın kısmın içinden çıkamıyorsan bana yorumlar üzerinden ulaş. </p>
+<P>4- Kafana takılan kısımları video ile kapatmaya çalış. Takıldığın kısmın içinden çıkamıyorsan bana yorumlar üzerinden ulaş. </p>
 
 <hr/>
 
